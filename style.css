@@ -232,3 +232,12 @@ main {
     width: 24px;
   }
 }
+
+.rodapé{
+  background-color: #f8fafd;
+  font-family: "Inter", sans- serif;
+  color: #252525;
+  padding: 2rem;
+  text-align: center;
+  font-size: 1rem;
+}
